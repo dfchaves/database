@@ -1,5 +1,5 @@
 {
-  cities: [
+  "cities": [
     {
     	"name": "Bogota",
     	"short_description": "This is the capital of Colombia",
