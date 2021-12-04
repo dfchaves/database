@@ -1,10 +1,28 @@
-[
-  {
-  	"name": "Bogota",
-  	"short_description": "This is the capital of Colombia",
-  	"description": "This is the capital of Colombia and the principal city",
-  	"temp": 12,
-  	"score": 5,
-  	"url": ""
-  }
-]
+{
+  cities: [
+    {
+    	"name": "Bogota",
+    	"short_description": "This is the capital of Colombia",
+    	"description": "This is the capital of Colombia and the principal city",
+    	"temp": 12,
+    	"score": 5,
+    	"url": ""
+    },
+    {
+    	"name": "Cartagena",
+    	"short_description": "This is the most beautifull city of Colombia",
+    	"description": "This is the capital of Bolivar and the principal city of this department",
+    	"temp": 25,
+    	"score": 3,
+    	"url": ""
+    },
+    {
+    	"name": "Medellin",
+    	"short_description": "This is the capital of Antioquia",
+    	"description": "This is the capital of Antioquia and the principal city",
+    	"temp": 20,
+    	"score": 4,
+    	"url": ""
+    }
+  ]
+}
